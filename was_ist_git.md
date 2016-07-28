@@ -7,8 +7,7 @@
 ### Aufgaben
 
 1. Liste weitere Versionsverwaltungssysteme auf, die es neben Git noch gibt.
-2. Beschreibe ganz kurz was ein Commit ist.
-3. Welche Dienste für Git gibt es im Internet ?
+2. Welche Dienste für Git gibt es im Internet ?
 
 ### Quiz
 
