@@ -4,7 +4,7 @@
 
 ### Aufgaben
 
-1. Beschreibe ganz kurz was die Begriffe Commit und Staging-Bereich bedeuten.
+1. Beschreibe ganz kurz was der Begriff Staging-Bereich bedeutet.
 2. Ergänze folgende Tabelle.
 
 | Ziel                                           | git-Befehl (ein Beispiel) | 
