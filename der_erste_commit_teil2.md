@@ -10,7 +10,7 @@
         <answer>in der Datei .config die Zeile "color true" hinzufügen</answer>
         <answer>"git commit -m color true" ausführen</answer>
         <answer>mit dem Tool gitconfig im Reiter Theme color auswählen</answer>
-        <answer corret>"git config --global color.ui true" ausführen</answer>
+        <answer correct>"git config --global color.ui true" ausführen</answer>
     </question>
 </quiz>
 
