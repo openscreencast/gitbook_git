@@ -14,13 +14,6 @@
         <answer>mit dem Tool gitbranch</answer>
         <answer correct>git branch portal ausführen</answer>
     </question>
-    <question>
-        <p>Mit welchem Kommando kann man in einem Git-Repository zu einem anderen Entwicklungszweig wechseln ?</p>
-        <answer>git active</answer>
-        <answer>git up</answer>
-        <answer correct>git checkout</answer>
-        <answer>git change</answer>
-    </question>
 </quiz>
 
 
