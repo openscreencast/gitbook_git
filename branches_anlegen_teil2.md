@@ -2,6 +2,10 @@
 
 <iframe width="800" height="450" src="https://www.youtube-nocookie.com/embed/TfvwbpxzSiI?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
+### Links
+
+* [git:Branching](https://git-scm.com/book/de/v1/Git-Branching-Was-ist-ein-Branch%3F)
+
 ### Quiz
 
 <quiz name="">

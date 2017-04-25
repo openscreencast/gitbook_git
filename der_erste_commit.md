@@ -2,6 +2,10 @@
 
 <iframe width="800" height="450" src="https://www.youtube-nocookie.com/embed/CaCDWK5PdEI?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
+### Links
+
+* [Git-Grundlagen](https://git-scm.com/book/de/v1/Git-Grundlagen-%C3%84nderungen-am-Repository-nachverfolgen)
+
 ### Aufgaben
 
 1. Erkläre ganz kurz was ein Commit ist.
