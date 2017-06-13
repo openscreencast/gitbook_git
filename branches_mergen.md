@@ -7,10 +7,6 @@
 * [git:Branching](https://git-scm.com/book/de/v1/Git-Branching-Was-ist-ein-Branch%3F)
 * [git:Branching und Merging](https://git-scm.com/book/de/v1/Git-Branching-Einfaches-Branching-und-Merging)
 
-### Aufgaben
-
-1. Erläutere was beim Mergen von Branches passiert.
-
 ### Quiz
 
 <quiz name="">

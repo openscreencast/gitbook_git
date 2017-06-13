@@ -7,11 +7,6 @@
 * [WP:Branch](https://de.wikipedia.org/wiki/Versionsverwaltung#Branch)
 * [git:Branching](https://git-scm.com/book/de/v1/Git-Branching-Was-ist-ein-Branch%3F)
 
-### Aufgaben
-
-1. Erläutere ganz kurz was ein Branch ist.
-2. In welchen Situationen kommen Branches zum Einsatz ? Nenne 2 Beispiele.
-
 ### Quiz
 
 <quiz name="">

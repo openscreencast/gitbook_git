@@ -6,11 +6,6 @@
 
 * [Git-Grundlagen](https://git-scm.com/book/de/v1/Git-Grundlagen-%C3%84nderungen-am-Repository-nachverfolgen)
 
-### Aufgaben
-
-1. Erkläre ganz kurz was ein Commit ist.
-2. Beim Ausführen des Kommandos git log werden mehrere Angaben aufgelistet. Welche Angaben sind dies und wozu dienen sie ?
-
 ### Quiz
 
 <quiz name="">

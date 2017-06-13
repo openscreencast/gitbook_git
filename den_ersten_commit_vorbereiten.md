@@ -6,18 +6,6 @@
 
 * [Git-Grundlagen](https://git-scm.com/book/de/v1/Git-Grundlagen-%C3%84nderungen-am-Repository-nachverfolgen)
 
-### Aufgaben
-
-1. Beschreibe ganz kurz was der Begriff Staging-Bereich bedeutet.
-2. Ergänze folgende Tabelle.
-
-| Ziel                                           | git-Befehl (ein Beispiel) | 
-|------------------------------------------------|---------------------------|
-| eine Datei zum Staging-Bereich hinzufügen      |     git add main.py       |
-| ein Verzeichnis zum Staging-Bereich hinzufügen |                           |
-| 3 Verzeichnisse zum Staging-Bereich hinzufügen |                           |
-|                                                |       git add -A          |
-
 ### Quiz
 
 <quiz name="">

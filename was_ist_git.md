@@ -7,11 +7,6 @@
 * [WP:git](http://de.wikipedia.org/wiki/Git)
 * [Versionskontrolle](https://git-scm.com/book/de/v1/Los-geht%E2%80%99s-Wozu-Versionskontrolle%3F)
 
-### Aufgaben
-
-1. Liste weitere Versionsverwaltungssysteme auf, die es neben Git noch gibt.
-2. Welche Dienste für Git gibt es im Internet ?
-
 ### Quiz
 
 <quiz name="">

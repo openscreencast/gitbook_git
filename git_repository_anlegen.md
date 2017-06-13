@@ -8,11 +8,6 @@
 * [Git - Download](http://git-scm.com/downloads)
 * [Git Repository](https://git-scm.com/book/de/v1/Git-Grundlagen-Ein-Git-Repository-anlegen)
 
-### Aufgaben
-
-1. Erläutere was ein Git-Repository ist.
-2. Initiiere ein leeres Git-Repository.
-
 ### Quiz
 
 <quiz name="">
