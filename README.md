@@ -10,10 +10,12 @@
 ```
 # Vorschau
 cd book
+gitbook install
 gitbook serve
 
 # Gitbook erstellen (statische Webseite)
 cd book
+gitbook install
 gitbook build
 ```
 
