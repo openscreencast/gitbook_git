@@ -8,7 +8,7 @@
 ### Anwendung
 
 ```
-# Vorschau
+# Vorschau http://localhost:4000
 cd book
 gitbook install
 gitbook serve
