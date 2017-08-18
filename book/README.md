@@ -33,3 +33,7 @@ Bilderquellen:
 * http://pixabay.com/de/tafel-schultafel-leer-schiefertafel-597238/ Lizenz: [CC Zero](http://creativecommons.org/publicdomain/zero/1.0/deed.de)
 * http://pixabay.com/de/start-start-up-notizb%C3%BCcher-kreative-593324/ Lizenz: [CC Zero](http://creativecommons.org/publicdomain/zero/1.0/deed.de)
 * http://pixabay.com/de/lampe-idee-birne-ansicht-denken-432246/ Lizenz: [CC Zero](http://creativecommons.org/publicdomain/zero/1.0/deed.de)
+
+# Git
+
+https://github.com/openscreencast/gitbook_git
