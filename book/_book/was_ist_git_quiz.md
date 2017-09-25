@@ -1,15 +1,4 @@
-# Was ist Git ?
-
-<iframe width="100%" height="430" src="https://www.youtube-nocookie.com/embed/lVzEQQQGhxI?showinfo=0" frameborder="0" allowfullscreen></iframe>
-
-<!--sec data-title="Links" data-id="links" data-show=true ces-->
-
-* [WP:git](http://de.wikipedia.org/wiki/Git)
-* [Versionskontrolle](https://git-scm.com/book/de/v1/Los-geht%E2%80%99s-Wozu-Versionskontrolle%3F)
-
-<!--endsec-->
-
-<!--sec data-title="Quiz" data-id="quiz" data-show=true data-collapse=true ces-->
+### Quiz
 
 <quiz name="">
     <question>
@@ -28,4 +17,4 @@
     </question>
 </quiz>
 
-<!--endsec-->
+
