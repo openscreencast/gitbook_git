@@ -10,4 +10,5 @@
 * [Branches anlegen](branches_anlegen.md)
 * [Branches anlegen - Teil 2](branches_anlegen_teil2.md)
 * [Branches mergen](branches_mergen.md)
+* [Merge-Konflikte](merge_konflikte.md)
 * [Lizenz](copyright.md)
